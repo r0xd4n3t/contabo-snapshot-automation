@@ -1,0 +1,8 @@
+{
+    "CLIENT_ID": "your_client_id",
+    "CLIENT_SECRET": "your_client_secret",
+    "API_USER": "your_api_user",
+    "API_PASSWORD": "your_api_password",
+    "TELEGRAM_BOT_TOKEN": "your_telegram_bot_token",
+    "TELEGRAM_CHAT_ID": "your_telegram_chat_id"
+}
