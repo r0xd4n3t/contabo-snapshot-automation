@@ -48,7 +48,8 @@ Before using this script, make sure you have the following prerequisites:
     "CLIENT_SECRET": "your_client_secret",
     "API_USER": "your_api_user",
     "API_PASSWORD": "your_api_password"
-}
+    }
+    ```
 
 3. Install the required packages:
    ```bash
