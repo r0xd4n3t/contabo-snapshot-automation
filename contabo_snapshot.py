@@ -5,8 +5,12 @@ import uuid
 from datetime import datetime
 from telegram import Bot
 
-# Load config values from config.conf
-with open('config.conf') as config_file:
+# Determine the directory of the script and construct the path to config.conf
+script_directory = os.path.dirname(__file__)
+config_file_path = os.path.join(script_directory, 'config.conf')
+
+# Load config values from the config.conf file
+with open(config_file_path) as config_file:
     config = json.load(config_file)
 
 # Get your Telegram bot token and chat ID
