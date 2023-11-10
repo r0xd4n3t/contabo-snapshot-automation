@@ -23,6 +23,10 @@ Automated Contabo cloud instance snapshot management using Python. Easily create
 
 Automate snapshot management for Contabo cloud instances using Python. This script allows you to create and delete snapshots for your Contabo cloud instances, ensuring data protection and efficient resource management.
 
+> Sample
+
+![](https://raw.githubusercontent.com/r0xd4n3t/contabo-snapshot-automation/main/img/sample.png)
+
 ## Prerequisites
 
 Before using this script, make sure you have the following prerequisites:
